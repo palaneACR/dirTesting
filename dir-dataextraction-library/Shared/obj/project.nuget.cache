@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p4bzJy1OnWMslqa9Yz3Hf/awGO1tjp7BpC6AYvn/BfDYapd/yhTNPZhCo7DYGQ3CJCna8O8XIaprfEcJ1U3aCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aspavankumar\\Documents\\GitHub\\dir-dataextraction-library\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aspavankumar\\.nuget\\packages\\entities01\\1.0.0\\entities01.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

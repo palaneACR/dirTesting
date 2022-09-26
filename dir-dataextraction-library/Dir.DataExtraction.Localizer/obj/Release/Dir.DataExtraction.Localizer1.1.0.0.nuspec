@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Dir.DataExtraction.Localizer1</id>
+    <version>1.0.0</version>
+    <authors>Dir.DataExtraction.Localizer</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Contract1" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog" version="2.11.0" exclude="Build,Analyzers" />
+        <dependency id="fo-dicom.Json" version="4.0.8" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/any/Resources/LocalizerEngine.exe" buildAction="Content" copyToOutput="true" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\aspavankumar\Documents\GitHub\dir-dataextraction-library\Dir.DataExtraction.Localizer\bin\Release\net6.0\Dir.DataExtraction.Localizer.dll" target="lib\net6.0\Dir.DataExtraction.Localizer.dll" />
+    <file src="C:\Users\aspavankumar\Documents\GitHub\dir-dataextraction-library\Dir.DataExtraction.Localizer\Engine\LocalizerEngine.exe" target="content\Resources\LocalizerEngine.exe" />
+    <file src="C:\Users\aspavankumar\Documents\GitHub\dir-dataextraction-library\Dir.DataExtraction.Localizer\Engine\LocalizerEngine.exe" target="contentFiles\any\any\Resources\LocalizerEngine.exe" />
+    <file src="C:\Users\aspavankumar\Documents\GitHub\dir-dataextraction-library\Dir.DataExtraction.Localizer\build\Dir.DataExtraction.Localizer.props" target="build\Dir.DataExtraction.Localizer.props" />
+  </files>
+</package>

@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>Dir.DataExtraction.Localizer01</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="fo-dicom.Json" Version="4.0.8" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="6.0.0" />
+    <PackageReference Include="Serilog" Version="2.11.0" />
+  </ItemGroup>
+	<ItemGroup>
+		<Content Include="Engine\LocalizerEngine.exe">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<PackageCopyToOutput>true</PackageCopyToOutput>
+			<PackagePath>content\Resources;contentFiles\any\any\Resources</PackagePath>
+			<Visible>false</Visible>
+		</Content>
+		<None Include="build\*.*">
+			<Pack>true</Pack>
+			<PackagePath>build</PackagePath>
+		</None>
+	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\Contracts\Contracts.csproj" />
+	</ItemGroup>
+</Project>

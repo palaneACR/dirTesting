@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Contract1</id>
+    <version>1.0.0</version>
+    <authors>Contracts</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Shared1" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="fo-dicom.Json" version="4.0.8" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\aspavankumar\Documents\GitHub\dir-dataextraction-library\Contracts\bin\Release\net6.0\Contracts.dll" target="lib\net6.0\Contracts.dll" />
+  </files>
+</package>
