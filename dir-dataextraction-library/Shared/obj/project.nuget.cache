@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p4bzJy1OnWMslqa9Yz3Hf/awGO1tjp7BpC6AYvn/BfDYapd/yhTNPZhCo7DYGQ3CJCna8O8XIaprfEcJ1U3aCA==",
+  "dgSpecHash": "RRJeJTGMQAp0CLz0poM/VPVcwpJLm0y5TJqzqx1E10Ot/AdpiYa4Degk5MxrdJTVRrgE3RIeG+Xloxm9qQv9sw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aspavankumar\\Documents\\GitHub\\dir-dataextraction-library\\Shared\\Shared.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\aspavankumar\\.nuget\\packages\\entities01\\1.0.0\\entities01.1.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\aspavankumar\\Documents\\GitHub\\dirTesting\\dir-dataextraction-library\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dakgFPe6ibHFx3Mr1mveYTbXrli3sAl/5OjiuKIYUii9erS00S+DFzyKwzTYhzD+0dd8ZvSi1VzUT+DG6t6lvQ==",
+  "dgSpecHash": "+/XqOvbvFkBwFnzpHszNOQnfw+HkPynLinY+AWfafQpYQu9ADxCY5+aGTEt2ZP7MwwfrRu4m8IUFRcSF/g21jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aspavankumar\\Documents\\GitHub\\dir-dataextraction-library\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\aspavankumar\\Documents\\GitHub\\dirTesting\\dir-dataextraction-library\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

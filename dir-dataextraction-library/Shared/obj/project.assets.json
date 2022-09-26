@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aspavankumar\\Documents\\GitHub\\dir-dataextraction-library\\Shared\\Shared.csproj",
+      "projectUniqueName": "C:\\Users\\aspavankumar\\Documents\\GitHub\\dirTesting\\dir-dataextraction-library\\Shared\\Shared.csproj",
       "projectName": "Shared01",
-      "projectPath": "C:\\Users\\aspavankumar\\Documents\\GitHub\\dir-dataextraction-library\\Shared\\Shared.csproj",
+      "projectPath": "C:\\Users\\aspavankumar\\Documents\\GitHub\\dirTesting\\dir-dataextraction-library\\Shared\\Shared.csproj",
       "packagesPath": "C:\\Users\\aspavankumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aspavankumar\\Documents\\GitHub\\dir-dataextraction-library\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\aspavankumar\\Documents\\GitHub\\dirTesting\\dir-dataextraction-library\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -53,7 +53,6 @@
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\nubkg": {},
         "https://pkgs.dev.azure.com/palane/TestApp01/_packaging/RdsrPackages/nuget/v3/index.json": {}
       },
@@ -61,8 +60,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\aspavankumar\\Documents\\GitHub\\dir-dataextraction-library\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\aspavankumar\\Documents\\GitHub\\dir-dataextraction-library\\Entities\\Entities.csproj"
+            "C:\\Users\\aspavankumar\\Documents\\GitHub\\dirTesting\\dir-dataextraction-library\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\aspavankumar\\Documents\\GitHub\\dirTesting\\dir-dataextraction-library\\Entities\\Entities.csproj"
             }
           }
         }
